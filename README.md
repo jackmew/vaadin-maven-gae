@@ -7,9 +7,13 @@ Workflow
 ========
 
 mvn clean
+
 mvn package
+
 mvn jetty:run
+
 mvn appengine:devserver
+
 mvn appengine:update
 
 ![intelliJ](https://dl.dropboxusercontent.com/u/47510080/markdown/share/Screen%20Shot%202015-08-16%20at%203.34.01%20AM.png)
